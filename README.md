@@ -1,1 +1,1 @@
-# modified-djektra-implementaion-qisket-by-prahlad-and-saksham.ipynb
+# Modified-Djektra-Implementaion-Qisket-by-Prahlad.M.V-and-Saksham.A.ipynb
