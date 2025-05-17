@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ### Contributing
 We welcome contributions! Feel free to fork the project and submit a pull request. For any issues or feature requests, please open an issue. This modified version of the algorithm was implemented by Prahlad MV and Saksham A, building upon the work of Robert Botez, whose earlier implementation utilized previous versions of Qiskit.
 
-You can copy all of the above and paste it directly into your **README.md** file.
+
